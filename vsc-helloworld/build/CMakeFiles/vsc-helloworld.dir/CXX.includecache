@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Segbhnajla1/2018/JUIN_18/DEV_CPPP/cppScripts/vsc-helloworld/vsc_helloworld.cpp
+iostream
+-
+
